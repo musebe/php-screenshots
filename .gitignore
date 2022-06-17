@@ -1,4 +1,5 @@
 /vendor/
 docker-compose.yml
 *.lock
+.env
 /src/
