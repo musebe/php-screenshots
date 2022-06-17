@@ -1,0 +1,17 @@
+{
+    "name": "rashiruma/siteimg",
+    "require": {
+        "cloudinary-labs/cloudinary-laravel": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rashiruma\\Siteimg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Ashiruma"
+        }
+    ]
+}
